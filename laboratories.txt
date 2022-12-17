@@ -1,5 +1,5 @@
 Facility_Cost
-Facility1_800
-Facility2_1200
-Facility3_500
-Facility4_50
+Lab1_800
+Lab2_1200
+Lab3_500
+Lab4_50
