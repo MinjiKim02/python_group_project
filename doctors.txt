@@ -1,6 +1,7 @@
 id_name_specilist_timing_qualification_roomNb
-21_Dr.Gody_ENT_5-11AM_MBBS,MD_17
-32_Dr.Vikram_Physician_10-3AM_MBBS,MD_45
-17_Dr.Amy_Surgeon_8-2AM_BDM_8
-33_Dr.David_Artho_10-4PM_MBBS,MS_40
-123_Dr. Ross_Headackes_8-10am_Mst_102
+21_Dr.Gody_ENT_5am-11am_MBBS,MD_17
+32_Dr.Vikram_Physician_10pm-3am_MBBS,MD_45
+17_Dr.Amy_Surgeon_8pm-2am_BDM_8
+33_Dr.David_Artho_10am-4pm_MBBS,MS_40
+123_Dr. Ross_Headackes_8pm-10am_Mst_102
+66_Dr. Mike kale_Heart_9am-3pm_MS_2
