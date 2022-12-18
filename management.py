@@ -1,5 +1,6 @@
 
-from main import Doctor, Facility, Laboratory, Patient
+from doctors import Doctor
+from classes import Facility, Laboratory, Patient
 
 
 this_doctor = Doctor()
